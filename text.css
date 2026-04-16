@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat+Brush|Faster+One');
+@font-face {
+    font-family: comic sans ms;
+    font-style: normal;
+    font-weight: 400;
+    src: local('Comic Sans MS'), local('ComicSansMS-Regular'), url(comic-sans-ms_53a8778a817839ef2dbc5dc94ce14334.woff) format('woff'), url(comic-sans-ms_53a8778a817839ef2dbc5dc94ce14334.ttf) format('truetype')
+}
+
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-image: url("images/otfacebook.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-size: 20px;
+}
+
+p.site-name {
+    margin: 0;
+    padding: 0;
+    color: #c52929;
+    font-size: 4em;
+    text-align: center;
+    font-family: 'Caveat Brush', cursive, sans-serif;
+    text-shadow: 0px 0px 30px rgba(150, 150, 150, 1);
+}
+
+div.container {
+    display: block;
+    margin: 0 auto;
+    max-width: 550px;
+}
+
+div.custom-fb-rules {
+    display: block;
+    text-align: center;
+}
+
+a img {
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    transition: 0.3s;
+}
+
+a img:hover {
+    opacity: 0.8;
+}
+
+div ul li {
+    padding-bottom: 15px;
+}
+
+p.copy-right-info {
+    word-wrap: break-word;
+}
+
+footer {
+    background-color: #212224;
+    border-radius: 5px;
+    color: #dee1e6;
+    opacity: 0.6;
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+footer span {
+    display: block;
+    text-align: center;
+    opacity: 0.6;
+}
+
+a:link {
+    color: #3300FF;
+}
+
+a:visited {
+    color: #660099;
+}
+
+a:hover {
+    color: #a02727;
+}

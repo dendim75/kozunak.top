@@ -1,0 +1,12 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>404 Not Found</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></HEAD><BODY>
+<H1>Съжалявам, нещо се обърка.&nbsp;</H1>
+<p>Страницата 
+  <!--#echo var="REQUEST_URI" -->
+  я няма на сървара. Моля съобщете ми за тази грешка, за да я оправя.</p>
+<p><a href="https://www.facebook.com/denislav.dimitrov.14" target="_blank">https://www.facebook.com/denislav.dimitrov.14</a></p>
+<p>Можете също да влезете в основната сраница на сайта и да потърсите това което ви е нужно:</p>
+<p><a href="http://kozunak.top/"><strong>kozunak.top</strong></a></p>
+</BODY></HTML>
